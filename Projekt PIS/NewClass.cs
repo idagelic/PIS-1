@@ -9,6 +9,7 @@ namespace Projekt_PIS
         public int metoda()
         {
             return 1;
+            //evo promjena
         }
     }
 }
