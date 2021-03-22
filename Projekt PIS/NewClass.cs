@@ -8,7 +8,7 @@ namespace Projekt_PIS
     {
         public int metoda()
         {
-            return 1;
+            return 123;
             //evo promjena
         }
     }
