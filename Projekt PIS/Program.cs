@@ -8,6 +8,7 @@ namespace Projekt_PIS
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Mislav");
         }
     }
 }
