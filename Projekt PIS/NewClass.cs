@@ -6,6 +6,9 @@ namespace Projekt_PIS
 {
     class NewClass
     {
-
+        public int metoda()
+        {
+            return 1;
+        }
     }
 }
